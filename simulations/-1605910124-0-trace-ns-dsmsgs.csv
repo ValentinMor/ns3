@@ -1,0 +1,4 @@
+Time,TraceSource,NodeId,MsgType,TxRemaining,PacketHex,PacketLength
+2452.303722097,USMsgRx,5,2,0,ffffffffffffffff,8
+3754.134705160,USMsgRx,4,2,0,fdffffffffffffff,8
+4976.240602966,USMsgRx,3,2,0,fcffffffffffffff,8

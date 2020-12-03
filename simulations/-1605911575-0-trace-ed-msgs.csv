@@ -1,0 +1,2 @@
+Time,TraceSource,NodeId,MsgType,PacketHex,PacketLength
+410.793694560,USMsgTx,4,2,0400000000010000ffffffffffffffff,16
